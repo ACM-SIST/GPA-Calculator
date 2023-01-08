@@ -1,0 +1,337 @@
+[
+    {
+        Semester:"1",
+        Subjects:[
+    {
+        "Subject_Code": "SMTA1101",
+        "Subject": "Engineering Mathematics – I",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SPHA1101",
+        "Subject": "Physics for Engineers",
+        "Credits": "4"
+    },
+    {
+        "Subject_Code": "SEEA1101",
+        "Subject": "Electrical Technology",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SCSA1202",
+        "Subject": "Programming in C and C++",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1101",
+        "Subject": "Electronic Devices",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1102",
+        "Subject": "Engineering Drawing",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SPHA2101",
+        "Subject": "Physics Lab",
+        "Credits": "1"
+    },
+    {
+        "Subject_Code": "SEEA2101",
+        "Subject": "Electrical Engineering Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SECA2101",
+        "Subject": "Electronic Devices Lab",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"2"
+        Subjects:[
+    {
+        "Subject_Code": "SHSA1101",
+        "Subject": "Technical English",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMTA1201",
+        "Subject": "Engineering Mathematics – II",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SCYA1101",
+        "Subject": "Engineering Chemistry",
+        "Credits": "4"
+    },
+    {
+        "Subject_Code": "SCSA1103",
+        "Subject": "Data structures",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SBTA1101",
+        "Subject": "Environmental Science and Engineering",
+        "Credits": "0"
+    },
+    {
+        "Subject_Code": "SECA1201",
+        "Subject": "Digital Logic Circuits",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SCYA2101",
+        "Subject": "Engineering Chemistry Lab",
+        "Credits": "1"
+    },
+    {
+        "Subject_Code": "SCSA2202",
+        "Subject": "Programming in C & Data Structures",
+        "Credits": "3"
+    }
+]
+    }
+    {
+        Semester:"3"
+        Subjects:[
+    {
+        "Subject_Code": "SMTA1301",
+        "Subject": "Engineering Mathematics - III",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SEE1304",
+        "Subject": "Electrical Circuits and Network",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1301",
+        "Subject": "Signals and Systems",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1302",
+        "Subject": "Electronic Circuits - I",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SEEA1302",
+        "Subject": "Electromagnetic Theory",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1303",
+        "Subject": "Analog  Communication",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA2301",
+        "Subject": "Circuits  and Networks Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SECA2302",
+        "Subject": "Electronic Circuits - I Lab",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"4"
+        Subjects: [
+    {
+        "Subject_Code": "SMTA1401",
+        "Subject": "Engineering Mathematics -  IV",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1401",
+        "Subject": "Electronic Circuits - II",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1402",
+        "Subject": "Transmission Lines and Wave",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1403",
+        "Subject": "Digital  Communication",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective – I",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SAIC4001",
+        "Subject": "Industry 4.0",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SECA2401",
+        "Subject": "Electronic Circuits - II Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SECA2402",
+        "Subject": "Communication Engineering Lab",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"5"
+        Subjects: [
+    {
+        "Subject_Code": "SECA1501",
+        "Subject": "Digital Signal Processing",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1502",
+        "Subject": "Analog Integrated Circuits",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1503",
+        "Subject": "CMOS VLSI Design",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective – II",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SEEA1502",
+        "Subject": "Control Systems",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA2501",
+        "Subject": "Digital Signal Processing Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SECA2502",
+        "Subject": "Analog Integrated Circuits Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "S13APT1",
+        "Subject": "Professional Training",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"6"
+        Subjects: [
+    {
+        "Subject_Code": "SECA1601",
+        "Subject": "Microprocessors and Microcontrollers",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1602",
+        "Subject": "Programming in HDL",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1603",
+        "Subject": "Embedded Systems",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1604",
+        "Subject": "Computer Networks",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective – III",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA2601",
+        "Subject": "Microprocessor and Microcontroller Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SECA2602",
+        "Subject": "VLSI  Design Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "S13AIPROJ1",
+        "Subject": "Interdisciplinary  Project",
+        "Credits": "3"
+    }
+]
+    }
+    {
+        Semester:"7"
+        Subjects: [
+    {
+        "Subject_Code": "SECA1701",
+        "Subject": "Microwave and Optical Communication",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1702",
+        "Subject": "Wireless Communication",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA1703",
+        "Subject": "Internet of Things",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective – IV",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective - V",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SECA2701",
+        "Subject": "Microwave and Optical Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "S13APROJ1",
+        "Subject": "Project Work (Phase - I)",
+        "Credits": "3"
+    }
+]
+    }
+    {
+        Semester:"8"
+        Subjects: [
+    {
+        "Subject_Code": "SBAA4002",
+        "Subject": "Principles of Management and Professional Ethics",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective - VI",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "S13APROJ2",
+        "Subject": "Project Work (Phase - II)",
+        "Credits": "7"
+    }
+]
+    }
+]

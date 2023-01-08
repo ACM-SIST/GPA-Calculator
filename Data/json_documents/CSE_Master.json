@@ -1,0 +1,362 @@
+[
+    {
+        Semester:"1",
+        Subjects: [
+        {
+            "Course_Code": "SHSA1105",
+            "Course_Name": "Technical English",
+            "Course_Credit": "3"
+        },
+        {
+            "Course_Code": "SMTA1101",
+            "Course_Name": "Engineering Mathematics – I",
+            "Course_Credit": "3"
+        },
+        {
+            "Course_Code": "SCYA1102",
+            "Course_Name": "Engineering Chemistry",
+            "Course_Credit": "3"
+        },
+        {
+            "Course_Code": "SBTA1101",
+            "Course_Name": "Environmental Science and Engineering",
+            "Course_Credit": "0"
+        },
+        {
+            "Course_Code": "SEEA1103",
+            "Course_Name": "Electrical and Electronics Engineering",
+            "Course_Credit": "3"
+        },
+        {
+            "Course_Code": "SCSA1104",
+            "Course_Name": "Problem  Solving Techniques with C",
+            "Course_Credit": "3"
+        },
+        {
+            "Course_Code": "SCYA2101",
+            "Course_Name": "Engineering Chemistry Lab",
+            "Course_Credit": "1"
+        },
+        {
+            "Course_Code": "SCSA2105",
+            "Course_Name": "Problem  Solving Techniques  Lab",
+            "Course_Credit": "2"
+        }
+        ]
+    }
+    {
+        Semester:"2"
+        Subjects: [
+        {
+            "Subject_Code": "SMTA1201",
+            "Subject": "Engineering Mathematics –II ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SPHA1202",
+            "Subject": "Physics for Information Sciences ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SMEA1102",
+            "Subject": "Engineering Drawing ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1201",
+            "Subject": "Fundamentals of Digital Systems ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1204",
+            "Subject": "Python Programming  ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1203",
+            "Subject": "Data Structures ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SPHA2101",
+            "Subject": "Physics Lab  ",
+            "Credits": "1"
+        },
+        {
+            "Subject_Code": "SEIA2202",
+            "Subject": "Digital Systems Lab ",
+            "Credits": "2"
+        },
+        {
+            "Subject_Code": "SCSA2201",
+            "Subject": "Data Structures Lab ",
+            "Credits": "2"
+        }
+        ]
+    }
+    {
+        Semester:"3"
+        Subjects:   [
+        {
+            "Subject_Code": "SMTA1302",
+            "Subject": "Discrete Mathematics",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1301",
+            "Subject": "Database Management Systems",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1302",
+            "Subject": "Theory of Computation",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1304",
+            "Subject": "Advanced Data Structures",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SITA1301",
+            "Subject": "Programming in Java",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1319",
+            "Subject": "Design Thinking and Innovations",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA2301",
+            "Subject": "Database Management Systems Lab",
+            "Credits": "2"
+        },
+        {
+            "Subject_Code": "SITA2302",
+            "Subject": "Programming in Java Lab",
+            "Credits": "2"
+        },
+        {
+            "Subject_Code": "SCSA2302",
+            "Subject": "Code Optimization and  Debugging - I",
+            "Credits": "1"
+        }
+        ]
+    }
+    {
+        Semester:"4"
+        Subjects:   [
+        {
+            "": "0",
+            "Subject_Code": "SMTA1402",
+            "Subject": "Probability and  Statistics",
+            "Credits": "3"
+        },
+        {
+            "": "1",
+            "Subject_Code": "SCSA1401",
+            "Subject": "Object Oriented Analysis and System",
+            "Credits": "3"
+        },
+        {
+            "": "2",
+            "Subject_Code": "SECA1404",
+            "Subject": "Microprocessor and Microcontroller",
+            "Credits": "3"
+        },
+        {
+            "": "3",
+            "Subject_Code": "SCSA1403",
+            "Subject": "Design and Analysis of Algorithms",
+            "Credits": "3"
+        },
+        {
+            "": "4",
+            "Subject_Code": "-",
+            "Subject": "Elective - 1",
+            "Credits": "3"
+        },
+        {
+            "": "5",
+            "Subject_Code": "SAIC4003",
+            "Subject": "Universal Human Values",
+            "Credits": "3"
+        },
+        {
+            "": "6",
+            "Subject_Code": "SECA2405",
+            "Subject": "Microprocessor and Microcontroller Lab",
+            "Credits": "2"
+        },
+        {
+            "": "7",
+            "Subject_Code": "SCSA2401",
+            "Subject": "Object Oriented Analysis and System Lab",
+            "Credits": "1"
+        },
+        {
+            "": "8",
+            "Subject_Code": "SCSA2402",
+            "Subject": "Code Optimization and  Debugging - II",
+            "Credits": "1"
+        }
+        ]
+    }
+    {
+        Semester:"5"
+        Subjects:   [
+        {
+            "Subject_Code": "SCSA1501",
+            "Subject": "Operating Systems",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1502",
+            "Subject": "Computer Networks and Design",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1402",
+            "Subject": "Computer Architecture and Organization",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1503",
+            "Subject": "Computer Graphics and  Multimedia",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "-",
+            "Subject": "Elective - 2",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "-",
+            "Subject": "Open Elective -1",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA2501",
+            "Subject": "Computer Networks Lab",
+            "Credits": "2"
+        },
+        {
+            "Subject_Code": "SCSA2502",
+            "Subject": "Operating Systems Lab",
+            "Credits": "2"
+        },
+        {
+            "Subject_Code": "S11APT1",
+            "Subject": "Professional Training",
+            "Credits": "2"
+        }
+        ]
+    }
+    {
+        Semester:"6"
+        Subjects:   [
+        {
+            "Subject_Code": "SCSA1601",
+            "Subject": "Machine Learning",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1603",
+            "Subject": "Big data Analytics",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1604",
+            "Subject": "Compiler Design",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "-",
+            "Subject": "Elective – 3",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "-",
+            "Subject": "Open Elective – 2",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA2601",
+            "Subject": "Machine Learning and Data Analytics Lab",
+            "Credits": "2"
+        },
+        {
+            "Subject_Code": "SCSA2602",
+            "Subject": "Compiler Design Lab",
+            "Credits": "2"
+        },
+        {
+            "Subject_Code": "S11APT2",
+            "Subject": "Interdisciplinary Project",
+            "Credits": "3"
+        }
+        ]
+    }
+    {
+        Semester:"7"
+        Subjects:   [
+        {
+            "Subject_Code": "SCSA1701",
+            "Subject": "Cyber Physical Systems ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA1702",
+            "Subject": "Artificial Intelligence ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "-",
+            "Subject": "Elective – 4 ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "-",
+            "Subject": "Elective – 5 ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "-",
+            "Subject": "Open Elective-3 ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "SCSA2701",
+            "Subject": "Cyber Physical Systems Lab ",
+            "Credits": "2"
+        },
+        {
+            "Subject_Code": "S11APROJ1",
+            "Subject": "Project Work (phase - I ) ",
+            "Credits": "3"
+        }
+        ]
+    }
+    {
+        Semester:"8"
+        Subjects:   [
+        {
+            "Subject_Code": "-",
+            "Subject": "Elective – 6 ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "-",
+            "Subject": "Open Elective-4 ",
+            "Credits": "3"
+        },
+        {
+            "Subject_Code": "S11APROJ2",
+            "Subject": "Project Work(Phase -  II) ",
+            "Credits": "7"
+        }
+        ]
+    }
+]
+
