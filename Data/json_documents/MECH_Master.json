@@ -1,0 +1,342 @@
+[
+    {
+        Semester:"1",
+        Subjects: [
+    {
+        "Subject_Code": "SMTA1101",
+        "Subject": "Engineering Mathematics - I",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SPHA1101",
+        "Subject": "Physics for Engineers",
+        "Credits": "4"
+    },
+    {
+        "Subject_Code": "SBTA1101",
+        "Subject": "Environmental Science and",
+        "Credits": "0"
+    },
+    {
+        "Subject_Code": "SCSA1103",
+        "Subject": "Programming in C",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1101",
+        "Subject": "Engineering Graphics",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1203",
+        "Subject": "Fundamentals of Mechanical",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SPHA2101",
+        "Subject": "Physics Lab",
+        "Credits": "1"
+    },
+    {
+        "Subject_Code": "SCSA2104",
+        "Subject": "Programming in C  Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SMEA2101",
+        "Subject": "Computer Aided Design Lab",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"2"
+        Subjects: [
+    {
+        "Subject_Code": "SHSA1101",
+        "Subject": "Technical English",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMTA1201",
+        "Subject": "Engineering Mathematics - II",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SEEA1101",
+        "Subject": "Basic Electrical and Electronics",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SCYA1101",
+        "Subject": "Engineering Chemistry",
+        "Credits": "4"
+    },
+    {
+        "Subject_Code": "SMEA1201",
+        "Subject": "Engineering Materials and",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1202",
+        "Subject": "Engineering Mechanics",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SCYA2101",
+        "Subject": "Engineering Chemistry Lab",
+        "Credits": "1"
+    },
+    {
+        "Subject_Code": "SMEA2201",
+        "Subject": "Workshop Practice",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"3"
+        Subjects: [
+    {
+        "Subject_Code": "SMTA1301",
+        "Subject": "Engineering Mathematics - III",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1301",
+        "Subject": "Engineering Metrology",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1302",
+        "Subject": "Engineering Thermodynamics",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1303",
+        "Subject": "Fluid Mechanics and  Machinery",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1304",
+        "Subject": "Machine Drawing",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1305",
+        "Subject": "Mechanics of Solids",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA2301",
+        "Subject": "Fluid Mechanics and Machinery\tLab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SMEA2302",
+        "Subject": "Material Testing and Metallurgy Lab",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"4"
+        Subjects: [
+    {
+        "Subject_Code": "SMTA1401",
+        "Subject": "Engineering Mathematics - IV",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SAIC4001",
+        "Subject": "Industry 5.0",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SMEA1401",
+        "Subject": "Manufacturing Technology - I",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1402",
+        "Subject": "Mechanics of Machines",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1403",
+        "Subject": "Power Plant Engineering",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1404",
+        "Subject": "Thermal Engineering",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA2401",
+        "Subject": "Engineering Metrology and Dynamics Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SMEA2402",
+        "Subject": "Manufacturing Processes Lab",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"5"
+        Subjects: [
+    {
+        "Subject_Code": "SMEA1501",
+        "Subject": "CAD/CAM",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1502",
+        "Subject": "Design of Machine Elements",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1503",
+        "Subject": "Finite Element Analysis",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1504",
+        "Subject": "Heat and Mass Transfer",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1505",
+        "Subject": "Manufacturing Technology - II",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Open Elective - I",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "S15APT1",
+        "Subject": "Professional Training",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SMEA2501",
+        "Subject": "CAD / CAM Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SMEA2502",
+        "Subject": "Thermal Engineering Lab -  I",
+        "Credits": "2"
+    }
+]
+    }
+    {
+        Semester:"6"
+        Subjects: [
+    {
+        "Subject_Code": "SMEA1601",
+        "Subject": "Design of Transmission Systems",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1602",
+        "Subject": "Gas Dynamics and Jet propulsion",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective - I",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective - II",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Open Elective - II",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA2601",
+        "Subject": "Design and Analysis Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "SMEA2602",
+        "Subject": "Thermal Engineering Lab -  II",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "S15APT2",
+        "Subject": "Inter Disciplinary  project",
+        "Credits": "3"
+    }
+]
+    }
+    {
+        Semester:"7"
+        Subjects: [
+    {
+        "Subject_Code": "SMEA1701",
+        "Subject": "Automobile Engineering",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA1702",
+        "Subject": "Industrial Mechatronics",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective - III",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective – IV",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Open Elective – III",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "SMEA2701",
+        "Subject": "Robotics and Automation Lab",
+        "Credits": "2"
+    },
+    {
+        "Subject_Code": "S15APROJ1",
+        "Subject": "Project Work (Phase – I)",
+        "Credits": "3"
+    }
+]
+    }
+    {
+        Semester:"8"
+        Subjects: [
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective - V",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "-",
+        "Subject": "Elective - VI",
+        "Credits": "3"
+    },
+    {
+        "Subject_Code": "S15APROJ2",
+        "Subject": "Project Work (Phase – II)",
+        "Credits": "7"
+    }
+]
+    }
+]
